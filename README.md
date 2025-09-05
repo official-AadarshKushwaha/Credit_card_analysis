@@ -48,9 +48,7 @@ This project enables real-time monitoring of **revenue, transactions, and custom
 ## 📸 Dashboard Preview  
 (Add screenshots here)  
 ```
-/screenshots/dashboard_overview.png  
-/screenshots/transactions_analysis.png  
-/screenshots/revenue_growth.png  
+
 ```
 
 ---
@@ -63,7 +61,7 @@ This project enables real-time monitoring of **revenue, transactions, and custom
 ### Steps  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/Credit_card_analysis.git
+   git clone https://github.com/official-AadarshKushwaha/Credit_card_analysis/tree/main
    cd Credit_card_analysis
    ```
 2. Import the SQL dataset into **MySQL Server**.  
